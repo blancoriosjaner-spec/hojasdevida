@@ -1,0 +1,33 @@
+body{
+    font-family: arial;
+    background:#f0f0f0;
+}
+
+.hoja{
+    width:700px;
+    margin:30px auto;
+    background:white;
+    padding:20px;
+}
+
+.foto{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+    border:2px solid black;
+    object-fit:cover;
+}
+
+h1{
+    text-align:center;
+}
+
+h2{
+    margin-top:20px;
+}
+
+p, li{
+    font-size:14px;
+}
